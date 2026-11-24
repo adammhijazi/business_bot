@@ -4,7 +4,7 @@
 
 **RigSmith PCs** is a fictional custom-PC building studio in Hamra, Beirut. **Rex**, its virtual build advisor, is an agent built on the **Gemini API**. It answers questions from the company documents, routes every message to the right handling path, collects sales leads, logs feedback and unanswered questions through tool calls, and checks its own replies before sending them.
 
-🎥 **Demo video:** *add your link here*
+🎥 **Demo video:** https://youtu.be/PmRRugy-lTw
 🤗 **Live demo (Hugging Face Spaces):** *add your link here*
 
 ---
